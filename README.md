@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Zion Olaño</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlozion026&label=Profile%20views&color=0e75b6&style=flat" alt="jlozion026" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jlozion026" alt="jlozion026" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,6 +7,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlozion026&show_icons=true&locale=en&layout=compact" alt="jlozion026" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlozion026&show_icons=true&locale=en" alt="jlozion026" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlozion026&theme=dark" alt="jlozion026" /></p>
+
