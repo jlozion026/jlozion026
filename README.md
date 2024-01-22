@@ -1,9 +1,11 @@
-<h1 align="center"> About Me </h1>
+<h1 align="center"> Hi 👋, I'm Joshua Zion Olaño </h1>
+
+My love for web development is starts when we created our research project, "Web-base Road Incident Data Management System". I'm currently on the look out for a role in Fullstack Development, ideally writing  TypeScript and Python. 
 
 ___
-Hi 👋, I'm Joshua Zion Olaño
-
-- 🛠️ Learning Django and React Development 
+- 🔎 Looking for Fullstack Development Role 
+- 🏗️ Developed Backend using modern technologies
+- 🛠️ Learning Django and React
 - 🚀 Aspiring Data Engineer
 ___
 <h3 align="left">Languages</h3>
