@@ -1,7 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Joshua Zion Olaño </h1>
 
-My passion for web development starts when we created our research project, "Web-base Road Incident Data Management System". I'm currently on the look out for a role in Fullstack Development, ideally writing  TypeScript and Python. 
-
 ___
 - 🔎 Looking for Fullstack Development Role 
 - 🏗️ Developed Backend using modern technologies
