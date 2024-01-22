@@ -5,7 +5,6 @@ Hi 👋, I'm Joshua Zion Olaño
 
 - 🛠️ Learning Django and React Development 
 - 🚀 Aspiring Data Engineer
-
 ___
 <h3 align="left">Languages</h3>
 <p align="left"> 
@@ -20,6 +19,7 @@ ___
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
+
 <h3 align="left">Backend Development</h3>
 <p align="left"> 
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
@@ -27,7 +27,8 @@ ___
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href= "https://typegraphql.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/146302c8cf61ca881dab65efcf25bd6c742d1db6b62b69b541b5d02ee6a8e29e/68747470733a2f2f747970656772617068716c2e636f6d2f696d672f6c6f676f2e706e67" alt="typescript" width="40" height="40"/> </a> 
-  <a href= "https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="pandas" width="40" height="40"/>  </a> 
+  <a href= "https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" width="100" height="40"/> </a> 
+  <a href= "https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/48201c96a65d0af91abde42c0f4cbebb03065f8e.png" alt="Apollo" width="100" height="40"/> </a> 
 </p>
 
 <h3 align="left">Database</h3>
