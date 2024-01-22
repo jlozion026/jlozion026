@@ -58,8 +58,8 @@ ___
 <h3 align="left">Python Libraries</h3>
 <p align="left"> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"  width="40" height="40"/>
-  <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo_dark.svg"  width="40" height="40"/>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"  width="100" height="40"/>
+  <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo_dark.svg"  width="100" height="40"/>
   
 </p>
 
