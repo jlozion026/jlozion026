@@ -1,8 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Joshua Zion Olaño </h1>
 
 ___
-- 🏗️ Developed Backend using modern technologies
-- 🚀 Aspiring Full Stack Developer
+My journey into the world of web development kicked off when I had the awesome opportunity on making significant contributions to our school project by coding the GUI with React and successfully deploying it on Heroku. My passion for development deepened as I took the initiative in building the backend for our thesis project, the "Web-based Road Incident Data Management System," harnessing the power of GraphQL API.
+
+As I navigated this exciting journey, my Python skills got a serious boost thanks to the accessibility of Data Camp. During my college internship, I served as a Full Stack Python Developer, addressing and refining their Human Resource Information System product. Additionally, I participated in an AI and Machine Learning Competition, where I proudly crafted an award-winning automated Health Form Extractor.
+
+Now, I'm on the lookout for the next big adventure—a Full Stack Developer position. I'm comfortable with Python and TypeScript,  but hey, I'm flexible and happy to use the best tools for the job. Ready to bring my passion and skills to a dynamic team. Let's create some awesome stuff together! 🚀
 ___
 <h3 align="left">Languages</h3>
 <p align="left"> 
