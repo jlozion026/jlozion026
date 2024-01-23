@@ -1,10 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Joshua Zion Olaño </h1>
 
 ___
-- 🔎 Looking for Fullstack Development Role 
 - 🏗️ Developed Backend using modern technologies
-- 🛠️ Learning Django and React
-- 🚀 Aspiring Data Engineer
+- 🚀 Aspiring Full Stack Developer
 ___
 <h3 align="left">Languages</h3>
 <p align="left"> 
