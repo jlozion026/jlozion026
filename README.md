@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Joshua Zion Olaño </h1>
 
 ___
-My journey into the world of web development kicked off when I had the awesome opportunity on making significant contributions to our school project by coding the GUI with React and successfully deploying it on Heroku. My passion for development deepened as I took the initiative in building the backend for our thesis project, the "Web-based Road Incident Data Management System," harnessing the power of GraphQL API.
+My journey into the world of web development kicked off when I had the awesome opportunity on making significant contributions to our school project by coding the User Interface with React and successfully deploying it on Heroku. My passion for development deepened as I took the initiative in building the backend for our thesis project, the "Web-based Road Incident Data Management System," harnessing the power of GraphQL API.
 
 As I navigated this exciting journey, my Python skills got a serious boost thanks to the accessibility of Data Camp. During my college internship, I served as a Full Stack Python Developer, addressing and refining their Human Resource Information System product. Additionally, I participated in an AI and Machine Learning Competition, where I proudly crafted an award-winning automated Health Form Extractor.
 
